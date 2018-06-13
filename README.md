@@ -117,3 +117,7 @@ Populous.sol- `0x5ead05ffbc2aaa119a90d150f0a058a8e6eb945b`
 Utils.sol- `0x25dc9b7068d23bab9cb0f198117617da44167cc9`
 
 Platform Admin/Server Address - `0x63d509f7152769ddf162ed048b83719fe1e31080`
+
+## Using technologies
+
+JavaScript, Blockchain
